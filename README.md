@@ -1,4 +1,4 @@
-# Java-Calculator
+# java-calculator
 GUI-based calculator application developed using Java Swing.
 
 # Java Swing Calculator
