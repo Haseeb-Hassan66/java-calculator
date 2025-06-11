@@ -33,4 +33,3 @@ A simple yet functional GUI-based calculator application built using **Java Swin
 Calculator/
 ├── Calculator.java         # Main Java file with GUI and logic
 ├── README.md               # Project documentation
-└── (Other related files if any)
